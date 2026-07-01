@@ -99,3 +99,6 @@ product-feedback-analysis-zomato/
 Sujanshet1
 
 This project was created as part of my Product Management portfolio.
+## Theme Analysis
+
+![Theme Analysis](images/top user pain points(zomato reviews).png)
